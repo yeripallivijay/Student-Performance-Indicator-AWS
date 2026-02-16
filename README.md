@@ -1,7 +1,20 @@
-Student Performance Indicator
-🔹 About This Project 
+<div align="center"> 
+  <h1>🎓 Student Performance Indicator</h1> 
+  <p>End‑to‑end Machine Learning Web App — deployed on AWS Elastic Beanstalk</p> 
+  <!-- Badges (replace links if desired) --> 
+  <a href="https://github.com/yeripallivijay/Student-Performance-Indicator-AWS/stargazers"> 
+    <img src="https://img.shields.io/github/stars/yeripallivijay/Student-Performance-Indicator-AWS?style=social" alt="GitHub Stars" /> 
+  </a> 
+  <a href="https://github.com/yeripallivijay/Student-Performance-Indicator-AWS/actions"> 
+    <img src="https://img.shields.io/github/actions/workflow/status/yeripallivijay/Student-Performance-Indicator-AWS/main.yml?branch=main" alt="CI Status" /> 
+  </a> 
+</div>
 
-A full-stack Machine Learning web application predicting student performance, deployed on AWS Elastic Beanstalk. Built using Python, Flask, and Scikit-learn, this project demonstrates end-to-end ML workflow: data processing → model training → web deployment. Highlights skills in cloud deployment, backend development, and real-time prediction, making it a practical portfolio project for recruiters and hiring managers.
+---
+
+## 🔹 About This Project
+A full-stack **Machine Learning web application** predicting student performance, deployed on **AWS Elastic Beanstalk**. Built using **Python, Flask, and Scikit-learn**, this project demonstrates **end-to-end ML workflow**: data processing → model training → web deployment. Highlights skills in **cloud deployment, backend development, and real-time prediction**, making it a practical portfolio project for recruiters and hiring managers.
+
 
 🔗 http://student-performance-indicator-env.eba-np6vpmkn.ap-south-2.elasticbeanstalk.com/
 
