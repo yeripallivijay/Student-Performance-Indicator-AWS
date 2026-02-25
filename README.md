@@ -40,7 +40,7 @@ A full-stack **Machine Learning web application** predicting student performance
 ![Home Page](screenshots/home.png)
 
 **Prediction Result Page:**  
-![Prediction Result](screenshots/prediction.png)
+![Prediction Result](screenshots/predicted.png)
 
 ---
 
